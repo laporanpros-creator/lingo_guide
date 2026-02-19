@@ -1,0 +1,7 @@
+{
+  "name": "LingoGuide - English Tutor",
+  "description": "An immersive English learning companion for Indonesian speakers featuring roleplay scenarios and real-time AI feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
